@@ -1,13 +1,13 @@
-{::options parse_block_html="true" /}
-
 # hpdevp
 
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
+> **Note**\
+> This is a note
 
-NOTE DESCRIPTION
+> **Warning**\
+> This is a warning
 
-</div>
-</div>
+> Note\
+> This is a note
+
+> Warning\
+> This is a warning
